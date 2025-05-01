@@ -11,11 +11,11 @@ A generic **Sparse Matrix Abstract Data Type** implemented in C++ using template
 
 # 🧠 Core Concepts
 
-* Sparse Matrix: Stores only non-zero values as ((row, col), value) pairs.
+* **Sparse Matrix** : Stores only non-zero values as ((row, col), value) pairs.
 
-* Template-based: Supports any data type (e.g., int, float, double).
+* **Template-based** : Supports any data type (e.g., int, float, double).
 
-* Efficient Space Usage: Ideal for matrices with a large number of zero entries.
+* **Efficient Space Usage** : Ideal for matrices with a large number of zero entries.
 
 # 🚀 Features
 
@@ -50,3 +50,15 @@ A generic **Sparse Matrix Abstract Data Type** implemented in C++ using template
 * Run
 
       ./sparseMatrixApp
+
+# 📚 Concepts Demonstrated
+
+* Template Classes
+
+* Operator Overloading Alternatives
+
+* Recursive Functions
+
+* Sparse Matrix Efficiency
+
+* Matrix Transposition and Multiplication
