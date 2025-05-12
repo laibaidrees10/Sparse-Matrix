@@ -1,4 +1,5 @@
 #include "sparseMatrix.h"
+
 int main()
 {
     SparseMatrixADT<int> matrix1(4, 4);
